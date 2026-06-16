@@ -4,8 +4,8 @@ A simple command-line Task Manager built using Python.
 
 Features
 
-. Add tasks
-. View tasks
+ # Add tasks
+ View tasks
 . Mark tasks as completed
 . Delete tasks
 . Task priorities (High / Medium / Low)
