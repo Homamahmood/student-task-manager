@@ -13,8 +13,8 @@ Features
 
 Technologies Used
 
-. Python
-. VS Code
+# Python
+# VS Code
 
  How to Run
 
